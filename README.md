@@ -70,22 +70,27 @@ Half adder:
 ![image](ee1.png)
 
 Full adder:
+
 ![image](ee2.png)
 
 ### RTL realization :
    
  Half adder :
- ![image](ee3.png)
+ 
+![image](ee3.png)
 
- Full adder : 
- ![image](ee4.png)
+ Full adder :
+ 
+![image](ee4.png)
 
 ### TIMING DIAGRAM :
 
 Half adder :
+
 ![image](ee5.png)
 
 Full adder :
+
 ![image](ee6.png)
 
 
